@@ -4,6 +4,11 @@ Pre-requisites:
  - VScode
  - Gitbash
 
+#workflows
+ - constants
+ - entity
+ - components
+ - pipeline
 
  Git commands
  - git add .
