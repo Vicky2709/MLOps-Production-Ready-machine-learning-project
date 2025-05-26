@@ -9,6 +9,7 @@ Pre-requisites:
  - entity
  - components
  - pipeline
+ - main file
 
  Git commands
  - git add .
